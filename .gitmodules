@@ -1,0 +1,4 @@
+[submodule "books/geron_handson_ml"]
+	path = books/geron_handson_ml
+	url = https://github.com/ageron/handson-mlp.git
+	ignore = dirty

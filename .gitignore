@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+data/
+models/
+runs/
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+
+# Paper PDFs: keep locally, link in notes.md
+papers/**/*.pdf
+.pytest_cache/
+.pytest_cache/
