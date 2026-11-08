@@ -26,8 +26,8 @@ Book updates (fixes for newer library versions): `make update-books`.
 
 | # | Chapter | Started | Finished |
 |---|---|---|---|
-| 1 | The Machine Learning Landscape | | |
-| 2 | End-to-End Machine Learning Project | | |
+| 1 | The Machine Learning Landscape | 2026-10-29 | [X]|
+| 2 | End-to-End Machine Learning Project | 2026-10-29 | [2026-11-08] |
 | 3 | Classification | | |
 | 4 | Training Linear Models | | |
 | 5 | Decision Trees | | |
